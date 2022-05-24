@@ -6,7 +6,7 @@ to be updated!!!
   
 # For More Information about Parser code
 - mobile : https://blog.naver.com/pl2105
-- PC : https://icmp-ycdi.tistory.com/136\n\n
+- PC : https://icmp-ycdi.tistory.com/136
   
   
 good afternoon, good evening, and good night!
